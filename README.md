@@ -4,8 +4,10 @@ An end-to-end data analysis project exploring telecommunications customer churn 
 
 ---
 
-## 🛠️ Project Workflow
+<img width="1272" height="735" alt="Screenshot 2026-11-10 155220" src="https://github.com/user-attachments/assets/b61e36a8-3071-4f66-bf18-6bfce30f0182" />
 
+---
+## 🛠️ Project Workflow
 1. **Data Source:** Extracted the raw dataset (`WA_Fn-UseC_-Telco-Customer-Churn`) from [Kaggle](https://www.kaggle.com/).
 2. **Data Cleaning & Preprocessing:** 
    * Performed initial inspection, formatting, and outlier handling in **Microsoft Excel**.
@@ -41,4 +43,10 @@ An end-to-end data analysis project exploring telecommunications customer churn 
    ```bash
    git clone [https://github.com/AtulCoder09/customer-churn-analysis.git](https://github.com/AtulCoder09/customer-churn-analysis.git)
 
+## Author 
+Name: Atul (Developer Handle: AtulCoder09)
+
+Location: India
+
+Focus: Software development, data science, and analytics.
    
